@@ -1,0 +1,6 @@
+google-genai
+duckduckgo-search
+pydantic
+python-dotenv
+rich
+streamlit
